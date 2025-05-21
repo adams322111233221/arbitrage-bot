@@ -2,15 +2,6 @@
 
 A blazing-fast MEV Arbitrage Bot built with Rust and Solidity is now available as open-source, offering valuable insight into MEV strategies for aspiring developers.
 
-## Contact me
-
-Telegram: [@dwlee918](https://t.me/@dwlee918)
-
-X: [@dwlee918](https://x.com/dwlee918)
-
-Github: [@solguru310](https://github.com/solguru310)
-
-
 ## Getting Started
 This repository serves as reference material for individuals interested in exploring the world of MEV. While certain advanced features, optimizations, and mechanisms have been intentionally removed for simplicity, the bot provides a great starting point for learning. Note, however, that it does not contain all the cutting-edge strategies (or "alpha") used by professional traders.
 
